@@ -1,5 +1,5 @@
 # awesome-firefox
-A curated list of resources for and about Mozilla Firefox
+A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/products/) - a bloated but versatile popular modern browser with nice user interface.
 
 ## Hardening your Firefox
 
@@ -21,5 +21,10 @@ A curated list of resources for and about Mozilla Firefox
 
  * [ScrapBook X](https://addons.mozilla.org/en-US/firefox/addon/scrapbook-x/) - an extension for bookmarking and wholesale saving page content for future perusal.
  * [LuciFox](https://addons.mozilla.org/en-US/firefox/addon/lucifox/) - an extension for reading e-books in Firefox.
+
+## Where to look for other awesome lists
+
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 <sub>[!["Creative Commons License"](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)]((http://creativecommons.org/licenses/by-sa/4.0/)]) This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).</sub>
