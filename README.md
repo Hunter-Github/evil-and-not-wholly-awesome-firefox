@@ -1,5 +1,5 @@
 # awesome-firefox
-A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/products/) - a bloated but versatile popular modern browser with nice user interface.
+A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/products/) - a [bloated](http://blog.ffextensionguru.com/2015/06/20/mozilla-making-firefox-bloated/) but versatile popular modern browser with nice user interface.
 
 ## Hardening your Firefox
 
@@ -32,6 +32,12 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
 While [you shouldn't keep passwords in Firefox](#hardening-your-firefox) sometimes you have to: 
 
 * [LaZagne](https://github.com/AlessandroZ/LaZagne) - recovers passwords.
+
+## Firefox clones/forks
+
+* [PaleMoon](https://www.palemoon.org/) - GitHub repo is called [Pale-Moon](https://github.com/MoonchildProductions/Pale-Moon).
+* [Mozilla Build Instructions](https://developer.mozilla.org/en-US/docs/Simple_Firefox_build) - the dev environment is huge.
+* [Linux build pre-requisites](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Linux_Prerequisites).
 
 ## Where to look for other awesome lists
 
