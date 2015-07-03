@@ -22,6 +22,12 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
  * [ScrapBook X](https://addons.mozilla.org/en-US/firefox/addon/scrapbook-x/) - an extension for bookmarking and wholesale saving page content for future perusal.
  * [LuciFox](https://addons.mozilla.org/en-US/firefox/addon/lucifox/) - an extension for reading e-books in Firefox.
 
+## Recovering passwords
+
+While [you shouldn't keep passwords in Firefox](#hardening-your-firefox) sometimes you have to: 
+
+* [LaZagne](https://github.com/AlessandroZ/LaZagne) - recovers passwords.
+
 ## Where to look for other awesome lists
 
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
