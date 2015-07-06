@@ -6,9 +6,10 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
  * [Changing the configuration](https://github.com/pyllyukko/user.js) - a checklist of things to do with `about:config` to reduce information leaking to Mozilla, Google and other corporate mastodonts.
  * [Certificate Patrol](https://addons.mozilla.org/en-US/firefox/addon/certificate-patrol/) - an extension to watch out for [Man-In-the-Middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) (MITM) certificate attacks.
  * [NoScript](https://noscript.net/) - an extension to keep JavaScript activity at a minimum, and protect from cross-site scripting.
- * Adblockers: (please note that using ready-made third-party block lists may open up your computer for surreptitiously whitelisted requests - _caveat emptor_) 
+ * Adblockers:
   * [uBlock Origin](https://github.com/gorhill/uBlock) - a lighter-weight adblocker. All custom rules from AdBlock Edge can be imported through the clipboard. Has dynamic filters. 
   * <del>[AdBlock Edge](https://bitbucket.org/adstomper/adblockedge/downloads/) - adblocker with a slightly different interface</del> (**discontinued in June 2015**).
+  * Please note that using ready-made third-party block lists may open up your computer for surreptitiously whitelisted requests - _caveat emptor_!
  * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - an extension to enforce encrypted protected connections no matter what.
  * [GreaseMonkey](https://github.com/greasemonkey/greasemonkey) - a versatile extension to rewrite pages on the fly. **WARNING** - official version of GreaseMonkey sends some data to their servers.
   * Useful user scripts (do **not install** without reviewing the scripts):
