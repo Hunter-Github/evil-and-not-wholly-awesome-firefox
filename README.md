@@ -9,6 +9,7 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
  * Adblockers:
   * [uBlock Origin](https://github.com/gorhill/uBlock) - a lighter-weight adblocker. All custom rules from AdBlock Edge can be imported through the clipboard. Has dynamic filters. 
   * <del>[AdBlock Edge](https://bitbucket.org/adstomper/adblockedge/downloads/) - adblocker with a slightly different interface</del> (**discontinued in June 2015**).
+  * [uMatrix](https://github.com/gorhill/uMatrix) - request blocker for advanced fine-grained filtering (blocks cookies, iframes, other types of content). Positively awesome, but takes some time to learn and master.  
   * Please note that using ready-made third-party block lists may open up your computer for surreptitiously whitelisted requests - _caveat emptor_!
  * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - an extension to enforce encrypted protected connections no matter what.
  * [GreaseMonkey](https://github.com/greasemonkey/greasemonkey) - a versatile extension to rewrite pages on the fly. **WARNING** - official version of GreaseMonkey sends some data to their servers.
