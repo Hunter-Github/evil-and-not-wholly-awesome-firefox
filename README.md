@@ -14,6 +14,7 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
   * Please note that using ready-made third-party block lists may open up your computer for surreptitiously whitelisted requests - _caveat emptor_!
  * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - an extension to enforce encrypted protected connections no matter what.
  * [GreaseMonkey](https://github.com/greasemonkey/greasemonkey) - a versatile extension to rewrite pages on the fly. **WARNING** - official version of GreaseMonkey sends some data to their servers.
+ <!-- * Please be aware that most addons on Mozilla's site are either superfluous or trash or spyware or all of the above -->
   * Useful user scripts (do **not install** without reviewing the scripts):
     * [Direct Google](https://greasyfork.org/en/scripts/568-direct-google) - Removes Google redirects and exposes "Cached" links.
   * User script repositories:
