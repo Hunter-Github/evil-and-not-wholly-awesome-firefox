@@ -39,6 +39,8 @@ While [you shouldn't keep passwords in Firefox](#hardening-your-firefox) sometim
 
 ## Firefox clones/forks
 
+_Mozilla is entering in partnerships with commercial entities (like Telefonica) which may kill the browser and its ecosystem. This necessitates starting an early search for respectable substitutes._
+
 * [PaleMoon](https://www.palemoon.org/) - GitHub repo is called [Pale-Moon](https://github.com/MoonchildProductions/Pale-Moon).
 * [Mozilla Build Instructions](https://developer.mozilla.org/en-US/docs/Simple_Firefox_build) - the dev environment is huge.
 * [Linux build pre-requisites](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Linux_Prerequisites).
