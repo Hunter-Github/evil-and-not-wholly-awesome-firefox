@@ -3,7 +3,7 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
 
 ## Hardening your Firefox
 
- * [Changing the configuration](https://github.com/pyllyukko/user.js) - a checklist of things to do with `about:config` to reduce information leaking to Mozilla, Google and other corporate mastodonts.
+ * [Changing the configuration](https://github.com/pyllyukko/user.js) - a checklist of things to do with `about:config` to reduce information leaking to Mozilla, Google and other corporate mastodonts [![Haz Commitz Status](http://haz-commitz.herokuapp.com/repos/pyllyukko/user.js.svg)](http://haz-commitz.herokuapp.com/repos/pyllyukko/user.js).
  * [Firefox vulnerabilities](https://web.nvd.nist.gov/view/vuln/search-results?query=firefox&search_type=all&cves=on) - an up-to-date list of vulnerabilities from US NIST (the official Mozilla list is [here](https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/)).
  * [Certificate Patrol](https://addons.mozilla.org/en-US/firefox/addon/certificate-patrol/) - an extension to watch out for [Man-In-the-Middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) (MITM) certificate attacks.
  * [NoScript](https://noscript.net/) - an extension to keep JavaScript activity at a minimum, and protect from cross-site scripting.
