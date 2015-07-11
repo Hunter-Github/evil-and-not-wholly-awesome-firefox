@@ -15,7 +15,7 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
  * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - an extension to enforce encrypted protected connections no matter what.
  * [GreaseMonkey](https://github.com/greasemonkey/greasemonkey) - a versatile extension to rewrite pages on the fly. **WARNING** - official version of GreaseMonkey sends some data to their servers.
    * Useful user scripts (do **not install** without reviewing the scripts):
-    * [Direct Google](https://greasyfork.org/en/scripts/568-direct-google) - Removes Google redirects and exposes "Cached" links.
+     * [Direct Google](https://greasyfork.org/en/scripts/568-direct-google) - Removes Google redirects and exposes "Cached" links.
   * User script repositories:
     * [GreasyFork](https://greasyfork.org/)
     * [OpenUser.JS](https://openuserjs.org/)
