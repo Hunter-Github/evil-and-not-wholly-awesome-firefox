@@ -49,7 +49,8 @@ _Mozilla is entering in partnerships with commercial entities (like Telefonica) 
 
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [freshcode](http://freshcode.club/) - a re-incarnation of Freshmeat, a directory of open-source/free software, with update notifications available.
 
 
 <sub>[!["Creative Commons License"](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)]((http://creativecommons.org/licenses/by-sa/4.0/)]) This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).</sub>
