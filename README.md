@@ -1,5 +1,5 @@
 # awesome-firefox
-A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/products/) - a [bloated](http://blog.ffextensionguru.com/2015/06/20/mozilla-making-firefox-bloated/) but versatile popular modern browser with nice user interface.
+A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/products/) - a [bloated](http://blog.ffextensionguru.com/2015/06/20/mozilla-making-firefox-bloated/) but versatile popular modern browser with nice user interface. Unfortunately, after Firefox 42 Mozilla will institute unwelcome changes in how addons work entering the already familiar territory of "walled gardens". Please see the [forks](#firefox-clonesforks) chapter to review your alternatives.
 
 ## Hardening your Firefox
 
@@ -41,6 +41,7 @@ While [you shouldn't keep passwords in Firefox](#hardening-your-firefox) sometim
 _Mozilla is entering in partnerships with commercial entities (like Telefonica) and considering radically changing the API which may kill the browser and its ecosystem. This necessitates starting an early search for respectable substitutes._
 
 * [PaleMoon](https://www.palemoon.org/) - GitHub repo is called [Pale-Moon](https://github.com/MoonchildProductions/Pale-Moon).
+* [IceCat](http://www.gnu.org/software/icecat/) - a GNUish fork which unfortunately lags behind FF at the moment.
 * [Mozilla Build Instructions](https://developer.mozilla.org/en-US/docs/Simple_Firefox_build) - the dev environment is huge.
 * [Linux build pre-requisites](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Linux_Prerequisites).
 
