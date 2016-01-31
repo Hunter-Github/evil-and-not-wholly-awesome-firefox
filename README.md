@@ -27,6 +27,7 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
  * [ScrapBook X](https://addons.mozilla.org/en-US/firefox/addon/scrapbook-x/) - an extension for bookmarking and wholesale saving page content for future perusal.
  * [LuciFox](https://addons.mozilla.org/en-US/firefox/addon/lucifox/) - an extension for reading e-books in Firefox.
  * [SQLite Manager](https://github.com/lazierthanthou/sqlite-manager) - creating, reading, updating etc. SQLite databases from within the browser.
+ * [VimFx](https://github.com/akhodakivskiy/VimFx) - if you have ever wanted to use Vim keyboard shotcuts for browsing in Firefox.
 
 ## Restyling well-known sites
  
