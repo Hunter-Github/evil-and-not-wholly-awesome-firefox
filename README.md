@@ -21,6 +21,7 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
   * User script repositories:
     * [GreasyFork](https://greasyfork.org/)
     * [OpenUser.JS](https://openuserjs.org/)
+  * If you want to restyle any site, you don't need any more extensions (Stylish etc.) Simply edit [this gist](https://gist.github.com/Hunter-Github/446d8fd36899a7d9180a) to suit your case.
 
 ## Making workflow comfortable
 
