@@ -21,7 +21,6 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
   * User script repositories:
     * [GreasyFork](https://greasyfork.org/)
     * [OpenUser.JS](https://openuserjs.org/)
-  * If you want to restyle any site, you don't need any more extensions (Stylish etc.) Simply edit [this gist](https://gist.github.com/Hunter-Github/446d8fd36899a7d9180a) to suit your case.
 
 ## Making workflow comfortable
 
@@ -33,6 +32,7 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
 ## Restyling well-known sites
  
  * [Wide GitHub](https://github.com/xthexder/wide-github) - for those who don't like white space.
+ * If you want to restyle _any_ site, you don't need any more extensions ([Stylish](https://github.com/JasonBarnabe/stylish) etc.) Simply edit [this gist](https://gist.github.com/Hunter-Github/446d8fd36899a7d9180a) and add it to GreaseMonkey to suit your case.
 
 ## Recovering passwords
 
