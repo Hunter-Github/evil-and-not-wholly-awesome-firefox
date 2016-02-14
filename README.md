@@ -9,6 +9,7 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
  * [Firefox vulnerabilities](https://web.nvd.nist.gov/view/vuln/search-results?query=firefox&search_type=all&cves=on) - an up-to-date list of vulnerabilities from US NIST (the official Mozilla list is [here](https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/)).
  * [Certificate Patrol](https://addons.mozilla.org/en-US/firefox/addon/certificate-patrol/) - an extension to watch out for [Man-In-the-Middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) (MITM) certificate attacks.
  * [NoScript](https://noscript.net/) - an extension to keep JavaScript activity at a minimum, and protect from cross-site scripting.
+  * _Privacy tip_: put `127.0.0.1 secure.informaction.com` into your `hosts` file (NoScript dials home at startup).
  * Adblockers:
   * [uBlock Origin](https://github.com/gorhill/uBlock) - a lighter-weight adblocker. All custom rules from AdBlock Edge can be imported through the clipboard. Has dynamic filters. 
   * <del>[AdBlock Edge](https://bitbucket.org/adstomper/adblockedge/downloads/) - adblocker with a slightly different interface</del> (**discontinued in June 2015**).
