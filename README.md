@@ -3,7 +3,8 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
 
 ## Hardening your Firefox
 
-**Important security warning** - Mozilla has systematic deficiencies in vulnerability handling. https://lwn.net/Articles/656683 
+**Important security warning** - Mozilla has systematic deficiencies in vulnerability handling and responsible disclosure.
+See: https://lwn.net/Articles/656683 https://news.ycombinator.com/item?id=12754199 https://github.com/mozilla/addons-linter/issues/1000#issuecomment-255089138
 
  * [Changing the configuration](https://github.com/pyllyukko/user.js) - a checklist of things to do with `about:config` to reduce information leaking to Mozilla, Google and other corporate mastodons.
  * [Firefox vulnerabilities](https://web.nvd.nist.gov/view/vuln/search-results?query=firefox&search_type=all&cves=on) - an up-to-date list of vulnerabilities from US NIST (the official Mozilla list is [here](https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/)).
