@@ -20,6 +20,7 @@ See: https://lwn.net/Articles/656683 https://news.ycombinator.com/item?id=127541
  * [GreaseMonkey](https://github.com/greasemonkey/greasemonkey) - a versatile extension to rewrite pages on the fly. **WARNING** - official version of GreaseMonkey sends some data to their servers.
    * Useful user scripts (do **not install** without reviewing the scripts):
      * [Direct Google](https://greasyfork.org/en/scripts/568-direct-google) - Removes Google redirects and exposes "Cached" links.
+     * [GitHub White NavBar](https://github.com/victor-li/github-white-navbar) - makes Github navigation bar white.
   * User script repositories:
     * [GreasyFork](https://greasyfork.org/)
     * [OpenUser.JS](https://openuserjs.org/)
