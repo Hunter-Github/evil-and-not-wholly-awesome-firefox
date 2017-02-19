@@ -25,6 +25,8 @@ See: https://lwn.net/Articles/656683 https://news.ycombinator.com/item?id=127541
     * [GreasyFork](https://greasyfork.org/)
     * [OpenUser.JS](https://openuserjs.org/)
 
+ _A note on add-ons published by Mozilla: the review times are [spiking](https://blog.mozilla.org/addons/2017/02/14/add-ons-update-92/#comments)._
+ 
 ## Making workflow comfortable
 
  * [ScrapBook X](https://addons.mozilla.org/en-US/firefox/addon/scrapbook-x/) - an extension for bookmarking and wholesale saving page content for future perusal.
