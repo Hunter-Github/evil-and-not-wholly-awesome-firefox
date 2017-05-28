@@ -54,6 +54,8 @@ _Mozilla is entering into partnerships with commercial entities (like Telefonica
 * [Mozilla Build Instructions](https://developer.mozilla.org/en-US/docs/Simple_Firefox_build) - the dev environment is huge.
 * [Linux build pre-requisites](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Linux_Prerequisites).
 
+The easiest way to get a modern and performant browser, though, is switching to an ['unstable' Chromium](https://download-chromium.appspot.com/). Although it still requires some customization, it supports uBlock Origin/uMatrix.
+
 ## Where to look for other awesome lists
 
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
