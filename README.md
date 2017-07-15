@@ -3,6 +3,8 @@ A curated list of resources for and about [Mozilla Firefox](https://www.mozilla.
 
 ## Hardening your Firefox
 
+PSA: Mozilla is covertly feeding customer data to Google Analytics. https://github.com/gorhill/uBlock/issues/2784
+
 **Important security warning** - Mozilla has systematic deficiencies in vulnerability handling and responsible disclosure.
 See: https://lwn.net/Articles/656683 https://news.ycombinator.com/item?id=12754199 https://github.com/mozilla/addons-linter/issues/1000#issuecomment-255089138
 
